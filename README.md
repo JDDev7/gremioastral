@@ -7,7 +7,6 @@ Github de la pagina web de Gremio Astral.
 - Next.js
 - lenis
 - framer-motion
-- 
 - TypeScript
 - Supabase
 
