@@ -2,7 +2,7 @@ import { createClient } from "@/utils/supabase/server";
 import React from "react";
 import styles from "./dashboard.module.css";
 
-import TiktokList from "@/app/components/TikTokList/tiktokList";
+import TiktokList from "@/app/components/TikTokList/TikTokList";
 import { redirect } from "next/navigation";
 import TiktokForm from "@/app/components/TikTokForm/TikTokForm";
 
