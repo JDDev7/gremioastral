@@ -60,10 +60,10 @@
   flex-direction: column;
   position: absolute;
   top: 3.75rem;
-  height: 10rem;
+  height: 12rem;
   gap: 1rem;
   right: 0;
-  background-color: #43496d8c;
+  background-color: #43496dbf;
   padding: 1rem;
   border-radius: 0 0 0 0.5rem;
 }
