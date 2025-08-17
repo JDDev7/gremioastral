@@ -20,7 +20,7 @@ import {
   IconBrandInstagram,
 } from "@tabler/icons-react";
 import { overpass } from "@/lib/utils";
-import TiktokList from "./components/TikTokList/TikTokList";
+import TiktokList from "./components/TikTokList/tiktokList";
 import { useEffect, useState } from "react";
 import { getHomeTiktoks } from "@/actions/home-tiktok-action";
 import Navbar from "./components/navbar/Navbar";

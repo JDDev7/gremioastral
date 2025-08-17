@@ -1,7 +1,7 @@
 "use client"
 
 import React from 'react'
-import styles from './TiktokEmbed.module.css'
+import styles from '@/app/components/TiktokEmbed/TikTokEmbed.module.css'
 import { TikTokEmbed } from 'react-social-media-embed'
 
 function TiktokEmbed({videoId}: {videoId: string}) {

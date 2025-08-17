@@ -1,7 +1,7 @@
 "use client";
 
 import React from "react";
-import styles from "./TikTokList.module.css";
+import styles from "@/app/components/TikTokList/tiktoklist.module.css";
 import dynamic from "next/dynamic";
 
 // Importación dinámica con SSR deshabilitado
