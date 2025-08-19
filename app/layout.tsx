@@ -5,6 +5,22 @@ import Lenis from "./lenis";
 export const metadata: Metadata = {
   title: "Gremio Astral",
   description: "Vive grandiosas aventuras en Dilmund! Gremio Astral es una comunidad española de rol en mesa y virtual donde puedes crear tus propias campañas o unirte a las de otros jugadores.",
+  openGraph: {
+    title: 'Gremio Astral',
+    description: 'Vive grandiosas aventuras en Dilmund! Gremio Astral es una comunidad española de rol en mesa y virtual donde puedes crear tus propias campañas o unirte a las de otros jugadores.',
+    url: 'https://gremioastral.es',
+    siteName: 'Gremio Astral',
+    images: [
+      {
+        url: 'https://gremioastral.es/web_thumbnail.jpg',
+        width: 1200,
+        height: 630,
+        alt: 'Descripción de la imagen',
+      },
+    ],
+    type: 'website',
+  },
+  
 };
 
 export default function RootLayout({
